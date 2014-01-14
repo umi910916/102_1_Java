@@ -18,7 +18,7 @@ public class A_B1 {
 		}
 		m=Integer.parseInt(num[0]);
 		n=Integer.parseInt(num[1]);
-		System.out.printf("%d/%d=0.", m, n);
+		System.out.printf("%d/%d=0.", m, n); //System.out.println(m + " " + n);
 		for (i=1;i<=100;i++) {
 			remainder[m]=i;
 			m=m*10;
