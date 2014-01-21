@@ -1,3 +1,5 @@
+//沒有轉換成中文大寫
+
 import java.util.*;    
 public class I_Q1{    
     public static void main(String[] args){      

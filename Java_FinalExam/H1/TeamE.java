@@ -1,3 +1,5 @@
+﻿//選單有BUG
+
 import java.util.*;
 import static java.lang.System.out;
 import java.io.*;

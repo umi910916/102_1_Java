@@ -1,3 +1,5 @@
+// % 重複顯示，題目圖片並沒有重複
+
 import java.util.*;
 
 public class TeamE{

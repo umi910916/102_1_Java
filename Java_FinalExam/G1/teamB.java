@@ -1,3 +1,6 @@
+//任務二-並沒有讀入PUCCA.txt檔案
+//任務三有錯
+
 import java.io.*;
 public class TeamB{
 	public static void main(String[] args) throws IOException { 

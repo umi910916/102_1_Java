@@ -1,3 +1,5 @@
+//選擇過程BUG太多，總金額錯誤、直接結束會有"青江菜20元*0"
+
 import java.io.*;
 public class TeamH {
 

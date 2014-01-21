@@ -1,3 +1,5 @@
+//輸入跟invetory.txt內相同數量仍有差額
+
 import java.io.*;
 public class G {
 public static void main(String[] args) throws IOException{

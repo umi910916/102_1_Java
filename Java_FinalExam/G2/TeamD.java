@@ -1,3 +1,5 @@
+//程式結束前，並未列出購買者所的商品、價格數量，但有總和
+
 import java.io.*;
 
 public class TeamD {

@@ -1,3 +1,5 @@
+//先賣蟑螂1,麥麩2,再賣蟑螂2時，收入出錯
+
 import  java.io.*;
 public class TeamB {
 		public static void main(String[] args) throws IOException{
